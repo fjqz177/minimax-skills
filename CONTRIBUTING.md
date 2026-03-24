@@ -125,7 +125,8 @@ If your skill includes helper scripts (typically in a `scripts/` directory):
 ### 4. Language and Encoding
 
 - Skill names and file names: ASCII only, `kebab-case`
-- Markdown content may be in English, Chinese, or bilingual — match the target audience of your skill
+- SKILL.md content and code should be written in English
+- Reference docs are recommended to be in English
 - All files must be UTF-8 encoded
 
 ## Review Process
